@@ -1,4 +1,4 @@
-# nr.gpt.ai-best
+# nr.gpt.ai
 
 ## 
 this project is for ideation of how to agentic ai can improve call bot service.
